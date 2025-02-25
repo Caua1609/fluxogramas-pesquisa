@@ -4,7 +4,7 @@
   <h2>O Que é um Fluxograma</h2>
 </div>
 
-_Fluxogramas são recursos perfeitos para uma equipe vizualizar peocessos complexos. Existem mais de 30 símbolos padronizados para se utilizar na criação deste tipo de diagrama. Tais símbolos podem indicar toda uma variedade de coisas: um processo, um documento ou decisões a tomar. Neste artigo, você entenderá qual é o significado dos diferentes formatos, quando usar fluxogramas e quais tipos podem ser implementados no seu trabalho._
+_Fluxogramas são recursos perfeitos para uma equipe vizualizar processos complexos. Existem mais de 30 símbolos padronizados para se utilizar na criação deste tipo de diagrama. Tais símbolos podem indicar toda uma variedade de coisas: um processo, um documento ou decisões a tomar. Neste artigo, você entenderá qual é o significado dos diferentes formatos, quando usar fluxogramas e quais tipos podem ser implementados no seu trabalho._
 
 <div align="center">
   <h2>Pricipais Símbolos Utilizados e seus Significados </h2>
