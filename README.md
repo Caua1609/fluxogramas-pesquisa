@@ -67,7 +67,7 @@ _Fluxogramas são recursos perfeitos para uma equipe vizualizar processos comple
 ```
 
 <div align="center">
-  <h2>Meu Fluxograma</h2>
+  <h2>Meus Fluxogramas</h2>
 </div>
 
 ![Captura de tela 2025-02-25 150712](https://github.com/user-attachments/assets/cdd12859-6b9a-4787-82e4-550f72ee6717)
@@ -77,3 +77,5 @@ _Fluxogramas são recursos perfeitos para uma equipe vizualizar processos comple
 -%: divisão
 -==: se será ímpar ou par
 ```
+
+![image](https://github.com/user-attachments/assets/24eadf97-4cbd-40ea-a38f-39f9d41fb6bc)
